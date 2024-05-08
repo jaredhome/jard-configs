@@ -1,0 +1,17 @@
+# This is Git's per-user configuration file.
+[user]
+	name = jaredhome
+	email = 95302683+jaredhome@users.noreply.github.com
+# Please adapt and uncomment the following lines:
+#	name = Jared Fisher
+#	email = account@jaredfisher.net
+[init]
+	defaultBranch = main
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[alias]
+	cloneg = clone https://github.com/
+	pushall = !git add --all && git commit -m "quick commit" && git push -u origin main
