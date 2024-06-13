@@ -1,0 +1,1 @@
+Default path is $HOME/.config/linearmouse/linearmouse.json
