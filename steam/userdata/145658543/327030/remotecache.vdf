@@ -1,0 +1,41 @@
+"327030"
+{
+	"ChangeNumber"		"4"
+	"ostype"		"0"
+	"MainData.dat"
+	{
+		"root"		"0"
+		"size"		"409600"
+		"localtime"		"1719785302"
+		"time"		"1719785301"
+		"remotetime"		"1719785301"
+		"sha"		"90747c52e673e6a3493d8368ec674f534e37b50f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"special.dat"
+	{
+		"root"		"0"
+		"size"		"4200"
+		"localtime"		"1719785302"
+		"time"		"1719785301"
+		"remotetime"		"1719785301"
+		"sha"		"94610a748ddb782b80eb90692b84bdc8b6b07df7"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"version.dat"
+	{
+		"root"		"0"
+		"size"		"4"
+		"localtime"		"1719785302"
+		"time"		"1719785301"
+		"remotetime"		"1719785301"
+		"sha"		"94312fc592ee3f323b3f9d8612737c507ec7f6c3"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

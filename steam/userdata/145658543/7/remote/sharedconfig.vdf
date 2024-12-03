@@ -1,0 +1,39 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"valve"
+		{
+			"Steam"
+			{
+				"SurveyDate"		"2017-11-27"
+				"SurveyDateVersion"		"-6853406879522551648"
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"1"
+				"apps"
+				{
+					"2054970"
+					{
+						"cloudenabled"		"0"
+					}
+				}
+				"Tools"
+				{
+					"2348590"
+					{
+						"Registered"		"1"
+					}
+					"1493710"
+					{
+						"Registered"		"1"
+					}
+					"2805730"
+					{
+						"Registered"		"1"
+					}
+				}
+				"SteamDefaultDialog"		"#app_games"
+			}
+		}
+	}
+}

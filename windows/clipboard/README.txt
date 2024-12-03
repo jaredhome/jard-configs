@@ -1,0 +1,1 @@
+Place both folders inside "%USERPROFILE%\AppData\Local\Microsoft\Windows\Clipboard"

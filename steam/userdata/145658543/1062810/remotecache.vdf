@@ -1,0 +1,77 @@
+"1062810"
+{
+	"ChangeNumber"		"-163773443670020405"
+	"ostype"		"0"
+	"Shiny Shoe/Inkbound/latest-player-save/PlayerSave_deleted.plr"
+	{
+		"root"		"12"
+		"size"		"16106"
+		"localtime"		"1710079112"
+		"time"		"1710079112"
+		"remotetime"		"1710079112"
+		"sha"		"e5227dd6edcaddc655644de76bc101bddb78b924"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Shiny Shoe/Inkbound/latest-player-save/PlayerSave_old.plr"
+	{
+		"root"		"12"
+		"size"		"15709"
+		"localtime"		"1710314664"
+		"time"		"1710314664"
+		"remotetime"		"1710314664"
+		"sha"		"9240194ac6af64aaaa011deca5bfae1f949e8bfc"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Shiny Shoe/Inkbound/latest-player-save/PlayerSave_Production_steam-76561198105924271.plr"
+	{
+		"root"		"12"
+		"size"		"15709"
+		"localtime"		"1710314684"
+		"time"		"1710314684"
+		"remotetime"		"1710314684"
+		"sha"		"b3b07050d98efd0dce493eb38bb9d8ca02e9e021"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Shiny Shoe/Inkbound/preferences-synced/preferencesSynced.json"
+	{
+		"root"		"12"
+		"size"		"3244"
+		"localtime"		"1712647720"
+		"time"		"1712647716"
+		"remotetime"		"1710308014"
+		"sha"		"f02d097d7fde772800a9293990079ed35a0f8ed4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Shiny Shoe/Inkbound/save-game/SaveGame_old.sav"
+	{
+		"root"		"12"
+		"size"		"84542"
+		"localtime"		"1710313602"
+		"time"		"1710313602"
+		"remotetime"		"1710313602"
+		"sha"		"9942b16c6df532f5c6b5c888d29e35f14b35f584"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Shiny Shoe/Inkbound/save-game/SaveGame_removed.sav"
+	{
+		"root"		"12"
+		"size"		"89334"
+		"localtime"		"1710313592"
+		"time"		"1710313592"
+		"remotetime"		"1710313592"
+		"sha"		"7fa2ac365b44b226101ed2aeb8aff5ed361debd9"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

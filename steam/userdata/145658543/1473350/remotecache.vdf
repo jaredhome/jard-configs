@@ -1,0 +1,65 @@
+"1473350"
+{
+	"ChangeNumber"		"-3275754443763714380"
+	"ostype"		"0"
+	"Gnorp/Apologue/Saves/save2.gnorp"
+	{
+		"root"		"4"
+		"size"		"16039"
+		"localtime"		"1714795211"
+		"time"		"1714795207"
+		"remotetime"		"1714795207"
+		"sha"		"9f2ba179d113589e3803a1abf2db0dc27da5385d"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Gnorp/Apologue/Saves/save3.gnorp"
+	{
+		"root"		"4"
+		"size"		"15911"
+		"localtime"		"1714794097"
+		"time"		"1714794093"
+		"remotetime"		"1714794093"
+		"sha"		"50d9fc6d177c4454811fd594f95843c8a6031dad"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Gnorp/Apologue/Saves/save4.gnorp"
+	{
+		"root"		"4"
+		"size"		"16002"
+		"localtime"		"1714794397"
+		"time"		"1714794393"
+		"remotetime"		"1714794393"
+		"sha"		"ace814571126c7e565acf4ede2480abd4c1be135"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Gnorp/Apologue/Saves/save0.gnorp"
+	{
+		"root"		"4"
+		"size"		"16115"
+		"localtime"		"1714794697"
+		"time"		"1714794693"
+		"remotetime"		"1714794693"
+		"sha"		"7b4c0741537eb712b7b4871ec22e70e711bbb9b4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Gnorp/Apologue/Saves/save1.gnorp"
+	{
+		"root"		"4"
+		"size"		"16025"
+		"localtime"		"1714794997"
+		"time"		"1714794993"
+		"remotetime"		"1714794993"
+		"sha"		"00f7d77c930d4ef1de44ca40211d59329b1e6a76"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}
